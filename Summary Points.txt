@@ -1,0 +1,7 @@
+                      SUMMARY POINTS ON VEHICLE THEFT ANALYSIS
+
+->Auckland had the highest number of vehicle thefts, showing that theft incidents are more common in busy and highly populated areas.
+->Trailers were the most stolen vehicle type, making them the primary target for vehicle thieves.
+->Vehicle thefts did not remain constant throughout the year and showed noticeable increases during certain months.
+->Standard vehicles were stolen more often than luxury vehicles, likely because they are more commonly available on the roads.
+->Regions with higher population density generally experienced more vehicle thefts, suggesting that crowded urban areas are at greater risk.
