@@ -1,4 +1,7 @@
 # vehicle-theft-analysis-dashboard
+<img width="1626" height="652" alt="Dashboard" src="https://github.com/user-attachments/assets/e4d2431e-fa4d-47c6-af32-6d846da8fccb" />
+
+
 
 ## About This Project
 
